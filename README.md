@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @boost2464
-- 👀 I’m interested in Networking and System Administration.
-- 🌱 I’m currently learning on the Odin Project.
-- 💞️ I’m looking to collaborate on nothing at the moment until my skills develop.
+# Hi, I’m @boost2464
+
+
+- 👀 I’m interested in Networking and System Administration and a believer in FOSS and OSS.
+
+- 🌱 I’m currently learning on the Odin Project, CS50x and few other bits and pieces.
+
+- 💞️ I’m looking to collaborate on anything I have the required knowledge or can at least be taught enough to help rather than hinder
+
 - 📫 How to reach me....
 
 <!---
