@@ -1,7 +1,7 @@
 # Hi, I’m @boost2464
 
 
-- 👀 I’m interested in Networking and System Administration and a believer in FOSS and OSS.
+- 👀 I’m interested in Networking and System Administration and a believer in FOSS and OSS solutions in the Enbterprise domain.
 
 - 🌱 I’m currently learning on the Odin Project, CS50x and few other bits and pieces.
 
